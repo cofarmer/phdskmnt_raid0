@@ -1,0 +1,2 @@
+# phdskmnt_raid0
+基于phdskmnt驱动开发的镜像文件RAID0方案
